@@ -1,0 +1,8 @@
+{
+	"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/aa1d6b75-3320-44b9-a283-a334b6e99048",
+	"maxSendable":100000000000,
+	"minSendable":1000,
+	"metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: motherloan76\"],[\"text/identifier\",\"motherloan76@walletofsatoshi.com\"]]",
+	"commentAllowed":32,
+	"tag":"payRequest"
+}
